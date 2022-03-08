@@ -1,2 +1,4 @@
-# namefile
-Upload
+#!bin/bash
+Toexterminate te world
+
+
